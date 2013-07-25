@@ -1,0 +1,9 @@
+{
+  "name": "downgrade-identity",
+  "version": "0.1.0",
+  "description": "simple, flexible method for downgrading process identity",
+  "main": "index.js",
+  "repository": "https://github.com/femto113/node-downgrade-identity.git",
+  "author": "ken.woodruff@gmail.com",
+  "license": "MIT"
+}
